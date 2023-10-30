@@ -1,4 +1,4 @@
-//First test
+//First test - minor change
 import { Selector } from 'testcafe';
 
 fixture`Color Switcher Test`
