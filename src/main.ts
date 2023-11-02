@@ -2,7 +2,7 @@
 interface ColorSwitcher {
     currentColor: string;
     availableColors: string[];
-    switchColor: () => void;
+    switchColor: () => void; // function that takes no arguments and returns nothing
 }
 
 
