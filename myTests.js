@@ -2,7 +2,7 @@
 import { Selector } from 'testcafe';
 
 fixture`Color Switcher Test`
-    .page('./src/index.html'); // Replace with the URL of your page
+    .page('./src/index.html');
 
 test('Check for the button', async t => {
 
